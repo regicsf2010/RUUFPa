@@ -1,8 +1,8 @@
 Saudações #
-Seja bem-vindo(a) ao aplicativo "Cardápio - RU" do Restaurante Universitário da UFPa.
-Este aplicativo faz parte de um desenvolvimento independente, portanto sem vínculo com órgãos da UFPa.
-Todas as informações do cardápio do RU são públicas e obtidas diretamente do site oficial da instituição.
+Seja bem-vind@ ao aplicativo RU UFPA.
+Este aplicativo faz parte de um desenvolvimento independente, portanto sem vínculo com órgãos da UFPA.
+Todas as informações do RU UFPA são públicas e obtidas diretamente do site oficial da instituição.
 Recomende este aplicativo para os seus amigos.
 Quanto mais feedbacks obtermos, melhores serão as atualizações futuras.
 Sempre que possível clique neste ícone para visualizar as mensagens mais recentes.
-Obrigado e bom proveito.
+Obrigado.
