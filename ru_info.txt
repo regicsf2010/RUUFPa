@@ -1,8 +1,5 @@
-Saudações #
-Seja bem-vind@ ao aplicativo RU UFPA.
-Este aplicativo faz parte de um desenvolvimento independente, portanto sem vínculo com órgãos da UFPA.
-Todas as informações do RU UFPA são públicas e obtidas diretamente do site oficial da instituição.
-Recomende este aplicativo para os seus amigos.
-Quanto mais sugestões obtermos, melhores serão as atualizações futuras.
-Sempre que possível clique neste ícone para visualizar as mensagens mais recentes.
+Atenção #
+O site do RU sofreu mudanças na data 26/03.
+Devido a isso, o aplicativo RU UFPA pode apresentar instabilidades.
+Em breve, uma atualização será lançada para resolve este problema.
 Obrigado.
