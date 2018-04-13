@@ -1,4 +1,6 @@
-Versão 2.1 do RU UFPA #
+Novidades #
+Corrigimos o problema de atualização de cardápio.
+Atualize o aplicativo para a verso 2.1.1.
 Acesse a página do Ver-o-bit na play store e atualize o aplicativo.
 Deixe suas críticas e nos avalie.
 Obrigado.
