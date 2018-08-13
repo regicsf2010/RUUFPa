@@ -1,5 +1,5 @@
 Avisos #
 
-ALMOÇO = 20/08/18 nas duas unidades de 11:00 às 14:00 h
+ALMOÇO = 20/08/18 nas duas unidades de 11:00 às 14:00.
 
-JANTAR = 23/08/18 somente no RU do Básico de 17:45 às 19:15
+JANTAR = 23/08/18 somente no RU do Básico de 17:45 às 19:15.
