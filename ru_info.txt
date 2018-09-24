@@ -1,3 +1,4 @@
-Nova versão RU UFPa #
+Nova versão RU UFPa 2.2.5 #
 
-A versão 2.2.1 do aplicativo RU UFPa já está disponível. Aproveite!
+Lançamento da nova versão para corrigir erros internos. 
+Obrigado pelo retorno pessoal.
