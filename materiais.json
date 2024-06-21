@@ -1,0 +1,12 @@
+{
+    1:  ["cadernos usados", "livros", "jornais", "revistas", "papelão"],
+    2:  ["sacolas limpas", "garrafas PET", "embalagens de produtos de limpeza", "frasco de cosméticos"],
+    3:  ["garrafas", "fracos", "pontes de produtos alimentícios", "copos"],
+    4:  ["latas de alumínio", "latas de produtos de alimentícios", "embalagens de congelados", "pregos", "parafusos"],
+    5:  ["tábua", "ripa", "sarrafo", "caixas de madeira", "móveis antigos", "árvores cortadas", "tronco", "lascas de madeira"],
+    6:  ["pilhas", "baterias", "produtos químicos", "baterias de automóveis", "resíduos eletrônicos", "óleos lubrificantes"],
+    7:  ["medicamentos vencidos", "gases", "algodão", "agulhas", "seringas", "materiais cortantes"],
+    8:  ["resíduos radioativos", "componentes de reatores", "materiais de radioterapia", "roupas de proteção contra radiação", "caixas de transporte de resíduos radioativos"],
+    9:  ["cascas de frutas", "cascas de ovos", "borra de café", "sobras de comida", "folhas secas", "aparas de grama", "galhos", "flores murchas"],
+    10: ["clips", "grampos", "esponjas de aço", "fitas adesivas", "etiquetas autocolantes", "fitas adesivas de embalagens", "espelhos", "janelas", "vidros de automóveis"]
+}
