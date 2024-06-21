@@ -1,0 +1,2 @@
+Olá programadores(as) da Oficina do Futuro!
+Sejam muito bem-vindos(as) à aula de Processamento de Arquivos na linguagem de programação Python.
